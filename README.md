@@ -1,7 +1,7 @@
 # accionlabs
 Rest Webservice with Jax-Rs
 
-Technology Stack : Jax-rs with Jersery and Spring DI for Implemenation and Database connection.
+Technology Stack : JAVA1.8, Tomcat8.5, Jax-rs with Jersery and Spring DI for Implemenation and Database connection.
 Database : my.db ( Sqllite )
 
 
