@@ -1,0 +1,5 @@
+test/java/VehicleServiceTest.class
+com/ankit/accionlabs/services/VehicleController.class
+com/ankit/accionlabs/services/VehicleAction.class
+com/ankit/accionlabs/services/Vehicle.class
+com/ankit/accionlabs/services/VheicleServiceImpl.class
