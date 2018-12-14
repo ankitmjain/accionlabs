@@ -2,7 +2,7 @@
 Rest Webservice with Jax-Rs
 
 Technology Stack : JAVA1.8, Tomcat8.5, Jax-rs with Jersery and Spring DI for Implemenation and Database connection.
-Database : my.db ( Sqllite )
+Database : accionlabs.db ( Sqllite )
 
 
 
@@ -45,7 +45,7 @@ Manage Vheicle with CRUD opration
     
 7.  Recent Delete
 
-    http://localhost:8080/accionlabs/Service/VehicleService/RecentDelete
+    http://localhost:8080/accionlabs/Service/VehicleService/DeleteRecent
     Method Type : Delete
     Input Parameter : None
     
