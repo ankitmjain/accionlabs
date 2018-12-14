@@ -1,5 +1,13 @@
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Boat.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Amphibian.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Airplane.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Car.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/VehicleFeature.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Drone.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/VehicleTypes.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Truck.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/controller/VehicleController.java
 /usr/local/workspace/accionlabs/src/test/java/VehicleServiceTest.java
-/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/services/VheicleServiceImpl.java
-/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/services/VehicleController.java
-/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/services/VehicleAction.java
-/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/services/Vehicle.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/services/VehicleService.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/dao/VehicleDaoImpl.java
+/usr/local/workspace/accionlabs/src/com/ankit/accionlabs/entities/Vehicle.java
